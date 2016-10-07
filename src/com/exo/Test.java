@@ -4,11 +4,9 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/**
- *
- */
 
 /**
+ * Class for consuming AddNode Rest Servicegit commit
  * @author Sabrine Ayachi
  *
  */
